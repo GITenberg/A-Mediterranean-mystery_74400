@@ -1,5 +1,8 @@
 _repo: A-Mediterranean-mystery_74400
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74400-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Wynne, Fred E.
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '57485'
     url: http://www.gutenberg.org/2009/agents/57485
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74400#A-Mediterranean-mystery
 gutenberg_issued: '2024-09-11'
 gutenberg_type: Text
 identifiers:
